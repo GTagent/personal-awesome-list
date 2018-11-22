@@ -32,3 +32,6 @@ This project is the collection of awesome list that i follow.
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-asm](https://github.com/jaspergould/awesome-asm)
+
+## books
+* [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)

@@ -34,4 +34,6 @@ This project is the collection of awesome list that i follow.
 * [awesome-asm](https://github.com/jaspergould/awesome-asm)
 
 ## books
-* [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+* ["bitcoinbook"](https://github.com/bitcoinbook/bitcoinbook)
+* "Mathematics For Machine Learning",2018,[websites](https://mml-book.github.io/),[github](https://github.com/mml-book/mml-book.github.io) 
+* "Machine Learning Yearning", Andrew Ng.  [English draft version](https://www.deeplearning.ai/machine-learning-yearning/),[Chinese draft version](https://github.com/AcceptedDoge/machine-learning-yearning-cn) 	 

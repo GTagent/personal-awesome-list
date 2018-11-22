@@ -21,6 +21,7 @@ This project is the collection of awesome list that i follow.
 * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [activityrecognition](https://github.com/jindongwang/activityrecognition)
 
 ## Game Related list
 * [game-programmer](https://github.com/miloyip/game-programmer)

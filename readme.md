@@ -23,6 +23,16 @@ This project is the collection of awesome list that i follow.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [activityrecognition](https://github.com/jindongwang/activityrecognition)
 
+## ML/DL Model Zoos
+
+* [numpy-ml](<https://github.com/ddbourgin/numpy-ml>)
+  * machine learning in numpy
+* [Deep Learning Models](<https://github.com/rasbt/deeplearning-models>)
+  * A collection of various deep learning architectures, models, and tips
+  * contains code implemented by tensorflow and Pytorch
+
+
+
 ## Game Related list
 * [game-programmer](https://github.com/miloyip/game-programmer)
 

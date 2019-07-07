@@ -20,8 +20,16 @@ This project is the collection of awesome list that i follow.
 * [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+  * A curated list of awesome Deep Learning tutorials, projects and communities.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [activityrecognition](https://github.com/jindongwang/activityrecognition)
+* [awesome-point-cloud-analysis](<https://github.com/Yochengliu/awesome-point-cloud-analysis>)
+  * A list of papers and datasets about point cloud analysis (processing)
+* [Graph-based deep learning literature](<https://github.com/naganandy/graph-based-deep-learning-literature>)
+  * links to conference publications in graph-based deep learning
+* [AiLearning](<https://github.com/apachecn/AiLearning>)
+  * 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+  * chinese
 
 ## ML/DL Model Zoos
 

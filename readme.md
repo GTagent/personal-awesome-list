@@ -41,4 +41,7 @@ This project is the collection of awesome list that i follow.
 * "Mathematics For Machine Learning",2018,[websites](https://mml-book.github.io/),[github](https://github.com/mml-book/mml-book.github.io) 
 * "Machine Learning Yearning", Andrew Ng.  [English draft version](https://www.deeplearning.ai/machine-learning-yearning/),[Chinese draft version](https://github.com/AcceptedDoge/machine-learning-yearning-cn) 
 * "Dive into Deep Learning", Mu Li, etc. [English version website](http://en.diveintodeeplearning.org/), [Chinese version website](http://zh.diveintodeeplearning.org/)
+* "神经网络与深度学习",[邱锡鹏](https://xpqiu.github.io/), [Chinese version](https://nndl.github.io/)
+* "南瓜书(PumpkinBook)",Datawhale,[websites](<https://datawhalechina.github.io/pumpkin-book/#/>),[github](<https://github.com/datawhalechina/pumpkin-book>)
+  * This repository contains some formula inferences emitted in the famous "机器学习" by 周志华
 

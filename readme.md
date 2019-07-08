@@ -1,13 +1,6 @@
 This project is the collection of awesome list that i follow.
 
-
-
-## Machine Learning Tools Tutorials and Resources List
-* [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
-* [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-
 ## Machine Learning or Deep Learning or AI or similar things whatever you like Lists
-* [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 * [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 * [the-gan-zoo](https://github.com/nightrome/really-awesome-gan)
 * [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
@@ -31,6 +24,12 @@ This project is the collection of awesome list that i follow.
   * 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
   * chinese
 
+## ML/DL Structure
+
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+  - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+- [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
 ## ML/DL Model Zoos
 
 * [numpy-ml](<https://github.com/ddbourgin/numpy-ml>)
@@ -38,8 +37,6 @@ This project is the collection of awesome list that i follow.
 * [Deep Learning Models](<https://github.com/rasbt/deeplearning-models>)
   * A collection of various deep learning architectures, models, and tips
   * contains code implemented by tensorflow and Pytorch
-
-
 
 ## Game Related list
 * [game-programmer](https://github.com/miloyip/game-programmer)
@@ -62,4 +59,9 @@ This project is the collection of awesome list that i follow.
 * "神经网络与深度学习",[邱锡鹏](https://xpqiu.github.io/), [Chinese version](https://nndl.github.io/)
 * "南瓜书(PumpkinBook)",Datawhale,[websites](<https://datawhalechina.github.io/pumpkin-book/#/>),[github](<https://github.com/datawhalechina/pumpkin-book>)
   * This repository contains some formula inferences emitted in the famous "机器学习" by 周志华
+
+## RoadMaps
+
+* [Virgilio](<https://github.com/virgili0/Virgilio>)
+  * Your new Mentor for Data Science E-Learning.
 

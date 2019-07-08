@@ -23,6 +23,8 @@ This project is the collection of awesome list that i follow.
 * [AiLearning](<https://github.com/apachecn/AiLearning>)
   * 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
   * chinese
+* [awesome-semantic-segmentation](<https://github.com/mrgloom/awesome-semantic-segmentation>)
+  * 🤘 awesome-semantic-segmentation
 
 ## ML/DL Structure
 
